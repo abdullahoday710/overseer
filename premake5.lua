@@ -40,8 +40,6 @@ workspace "Overseer"
 			"%{IncludeDir.zlib}",
 
 		}
-		defines {"AK_GAME_ASSEMBLY"}
-
 
 		filter "system:windows"
 			systemversion "latest"

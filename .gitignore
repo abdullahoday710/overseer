@@ -1,0 +1,10 @@
+**.mca
+.vs/
+
+**.vcxproj
+**.vcxproj.user
+**.vcxproj.filters
+
+**.sln
+build/
+build-int/
